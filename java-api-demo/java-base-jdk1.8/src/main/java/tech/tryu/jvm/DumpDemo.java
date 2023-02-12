@@ -1,4 +1,4 @@
-package tech.tryu;
+package tech.tryu.jvm;
 
 /**
  * 需要设置 -XX:+PrintGC ，并观察dump的大小 判断是否已回收

@@ -1,4 +1,4 @@
-package tech.tryu;
+package tech.tryu.jvm;
 
 /**
  * @author YU

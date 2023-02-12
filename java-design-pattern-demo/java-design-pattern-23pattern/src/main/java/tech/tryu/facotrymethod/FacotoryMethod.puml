@@ -19,7 +19,7 @@ class WebDialog {
 
 WindowsDialog -up-|> Dialog
 IosDialog -up-|> Dialog
-WebDialog -up-|> Dialog
+WebDialog -down-|> Dialog
 
 interface Button {
 + void render()

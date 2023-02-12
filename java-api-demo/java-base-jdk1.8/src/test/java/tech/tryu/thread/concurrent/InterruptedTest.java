@@ -9,14 +9,13 @@ import static org.junit.jupiter.api.Assertions.*;
  * @date 2022-12-17 15:58
  */
 class InterruptedTest {
-
     @Test
-    void interruptedActivity() {
+    void interruptedActivityTest() {
         Interrupted.interruptedActivity();
     }
 
     @Test
-    void interruptedWait() {
+    void interruptedWaitTest() {
         Interrupted.interruptedWait();
     }
 }

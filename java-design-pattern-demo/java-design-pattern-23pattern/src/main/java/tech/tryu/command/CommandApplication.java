@@ -16,9 +16,5 @@ public class CommandApplication {
         Sender sender = new Sender();
         sender.setCommand(printCommand);
         sender.execute();
-
-
     }
-
-
 }
